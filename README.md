@@ -6,7 +6,7 @@ Manav Sehgal
 Language
 C++
 
-#Question 1
+# Question 1
 Integer to English Words
 - Handles negative numbers
 - No extra spaces
